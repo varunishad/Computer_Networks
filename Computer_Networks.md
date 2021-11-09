@@ -51,6 +51,8 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 ### Modem
 
  Modem allows the computer to connect to the internet over the existing telephone line. It stands for Modulator/Demodulator as it converts the digital data into an analog signal over the telephone lines.
+ 
+ * * *
 
 ## Computer Network Architecture
 
@@ -76,6 +78,8 @@ NIC, hub, switch, cable, router and modem are some of the important components w
  * A server performs all the major operations such as security,network management, and is responsible for managing all the resources such as files, directories, etc.
 
  ![lient/Server network](https://static.javatpoint.com/tutorial/computer-network/images/client-server-network.png)
+ 
+ * * *
 
 ## Types of Computer Networks:
 
@@ -123,7 +127,8 @@ NIC, hub, switch, cable, router and modem are some of the important components w
  * The internet is one of the biggest WAN in the world.
 
  ![WAN](https://static.javatpoint.com/tutorial/computer-network/images/wide-area-network.png)
-
+ 
+ * * *
 
 ## Network Topologies:
 
@@ -193,6 +198,8 @@ NIC, hub, switch, cable, router and modem are some of the important components w
  * Similar topologies connected with each other will not result in Hybrid topology.
 
  ![HYBRID](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-hybrid-topology.png)
+ 
+ * * *
 
 ## Transmission Modes:
 
