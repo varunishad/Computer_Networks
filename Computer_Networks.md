@@ -138,9 +138,9 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 
  * **Bus Topology:**
 
- * All the stations are connected through a single cable known as a backbone cable and each node is either connected to the backbone cable by drop cable or directly connected to the backbone cable.
+  * All the stations are connected through a single cable known as a backbone cable and each node is either connected to the backbone cable by drop cable or directly connected to the backbone cable.
 
- * When a node wants to send a message over the network, it puts a message over the network. All the stations available in the network will receive the message whether it has been addressed or not.
+  * When a node wants to send a message over the network, it puts a message over the network. All the stations available in the network will receive the message whether it has been addressed or not.
 
  ![BUS](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-bus-topology.png)
 
