@@ -1,4 +1,4 @@
-## Computer Networks
+# Computer Networks
 
 A computer network is a set of devices connected through links, where devices can be computer, printer, or anything capable of sending or receiving the data and links can be wired or wireless.
 
@@ -8,13 +8,13 @@ The aim of computer network technology is to help people interact with each othe
 
 * * *
 
-### Components of computer Network
+## Components of computer Network
 
 NIC, hub, switch, cable, router and modem are some of the important components which are needed to install the software.
 
 ![Computer Network Components](https://static.javatpoint.com/tutorial/computer-network/images/components-of-computer-network.png)
 
-#### NIC (network interface card)
+### NIC (network interface card)
 
  NIC contains the hardware addresses, the data-link layer protocol use this address to identify the system on the network so that it can transfer the data to the correct destination.
 
@@ -24,15 +24,15 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 
  2. **Wired NIC:** Cables uses the **wired NIC** to transfer the data over the medium.
 
-#### Hub
+### Hub
 
  A Hub is a central device that splits the network connection into multiple devices. When a computer requests for information from another computer, it first sends the request to the Hub. Hub then broadcasts this request to the entire network. All the other devices check whether the request belongs to them or not. If not, the request gets dropped.
 
-#### Switch
+### Switch
 
  A Switch groups all the devices over the network to transfer the data to another device. It directly sends the data to the device for which it belongs to i.e., from source to the destination.
 
-#### Cables and Connectors
+### Cables and Connectors
 
  Cable is a transmission media used to transmit a communication signals.
 
@@ -44,19 +44,19 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 
  3. **Fibre optic cable:** It transmits data using light beams. Hence, provides high data transmission speed as compare to other cables.
 
-#### Router
+### Router
 
  Router is a device that connects the LAN to the internet. The router is mainly used to connect the distinct networks or connect the internet to multiple computers.
 
-#### Modem
+### Modem
 
  Modem allows the computer to connect to the internet over the existing telephone line. It stands for Modulator/Demodulator as it converts the digital data into an analog signal over the telephone lines.
 
-### Computer Network Architecture
+## Computer Network Architecture
 
  Two types of architecture are used in computer networks:
 
- #### 1. Peer-To-Peer network:
+ ### 1. Peer-To-Peer network:
 
  * In this all the computers are linked together with equal privilege and responsibilities for processing the data.
 
@@ -67,7 +67,7 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 ![Peer-to-peer](https://static.javatpoint.com/tutorial/computer-network/images/peer-to-peer-network.png)
 
 
- #### 2. Client/Server network:
+ ### 2. Client/Server network:
 
  * It is a network model designed for the end users called clients, to access any resource from a central computer known as Server.
 
@@ -77,7 +77,7 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 
  ![lient/Server network](https://static.javatpoint.com/tutorial/computer-network/images/client-server-network.png)
 
-### Types of Computer Networks:
+## Types of Computer Networks:
 
  ![Computer Network Types](https://static.javatpoint.com/tutorial/computer-network/images/types-of-computer-network.png)
 
@@ -125,11 +125,11 @@ NIC, hub, switch, cable, router and modem are some of the important components w
  ![WAN](https://static.javatpoint.com/tutorial/computer-network/images/wide-area-network.png)
 
 
-### Network Topologies:
+## Network Topologies:
 
  Topology defines the structure of the network of how all the components are interconnected to each other.
 
- #### Types of Network Topology:
+ ### Types of Network Topology:
 
  * **Bus Topology:**
 
@@ -176,7 +176,7 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 
  * It is mainly used for wireless networks. The Internet is an example of the mesh topology.
 
- ##### Types of Mesh Topology:
+ #### Types of Mesh Topology:
 
  * **Full Mesh Topology:** Each computer is connected to all the computers available in the network.
 
@@ -194,7 +194,7 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 
  ![HYBRID](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-hybrid-topology.png)
 
-### Transmission Modes:
+## Transmission Modes:
 
  - The way in which data is transmitted from one device to another is known as **transmission mode**. It is defined in the physical layer.
 
