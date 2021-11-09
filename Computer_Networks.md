@@ -136,69 +136,69 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 
  ### Types of Network Topology:
 
- * **Bus Topology:**
+ **1. Bus Topology:**
 
-  * All the stations are connected through a single cable known as a backbone cable and each node is either connected to the backbone cable by drop cable or directly connected to the backbone cable.
+   * All the stations are connected through a single cable known as a backbone cable and each node is either connected to the backbone cable by drop cable or directly connected to the backbone cable.
 
-  * When a node wants to send a message over the network, it puts a message over the network. All the stations available in the network will receive the message whether it has been addressed or not.
+   * When a node wants to send a message over the network, it puts a message over the network. All the stations available in the network will receive the message whether it has been addressed or not.
 
  ![BUS](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-bus-topology.png)
 
- * **Ring Topology:**
+ **2. Ring Topology:**
 
- * The node that receives the message from the previous computer will retransmit to the next node.
+   * The node that receives the message from the previous computer will retransmit to the next node.
 
- * The data flow is unidirectional i.e., in clockwise direction.
+   * The data flow is unidirectional i.e., in clockwise direction.
 
- * Each node is connected to other node having no termination point. Hence, The data flows in a single loop continuously known as an endless loop.
+   * Each node is connected to other node having no termination point. Hence, The data flows in a single loop continuously known as an endless loop.
 
  ![Ring](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-ring-topology.png)
 
- * **Star Topology:**
+ **3. Star Topology:**
 
- * Every node is connected to the central hub, switch or a central computer known as **server** and the devices attached to the server are known as **clients**.
+   * Every node is connected to the central hub, switch or a central computer known as **server** and the devices attached to the server are known as **clients**.
 
- * Hubs or Switches are mainly used as connection devices in a physical star topology.
+   * Hubs or Switches are mainly used as connection devices in a physical star topology.
 
 
- ![STAR](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-star-topology.png)
+   ![STAR](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-star-topology.png)
 
- * **Tree Topology:**
+ **4. Tree Topology:**
 
- * It is a combination of bus topology and star topology.
+   * It is a combination of bus topology and star topology.
 
- * All the computers are connected with each other in hierarchical fashion.
+   * All the computers are connected with each other in hierarchical fashion.
 
- * The top-most node in tree topology is known as a root node, and all other nodes are the descendants of the root node.
+   * The top-most node in tree topology is known as a root node, and all other nodes are the descendants of the root node.
 
- ![Tree](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-tree-topology.png)
+   ![Tree](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-tree-topology.png)
 
- * **Mesh Toplogy:**
+ **5.Mesh Toplogy:**
 
- * It is an arrangement of the network in which computers are interconnected with each other through various connections.
+   * It is an arrangement of the network in which computers are interconnected with each other through various connections.
 
- * There are multiple paths from one computer to another computer.
+   * There are multiple paths from one computer to another computer.
 
- * It is mainly used for wireless networks. The Internet is an example of the mesh topology.
+   * It is mainly used for wireless networks. The Internet is an example of the mesh topology.
 
- #### Types of Mesh Topology:
+   #### Types of Mesh Topology:
 
- * **Full Mesh Topology:** Each computer is connected to all the computers available in the network.
+   * **Full Mesh Topology:** Each computer is connected to all the computers available in the network.
 
- * **Partial Mesh Topology:** Not all but certain computers are connected to those computers with which they communicate frequently.
+   * **Partial Mesh Topology:** Not all but certain computers are connected to those computers with which they communicate frequently.
 
- ![MESH](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-mesh-topology.png)
+   ![MESH](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-mesh-topology.png)
 
- * **Hybrid Topology:**
+ **6.Hybrid Topology:**
 
- * It is the combination of various different topologies.
+   * It is the combination of various different topologies.
 
- * It is a connection between different links and nodes to transfer the data.
+   * It is a connection between different links and nodes to transfer the data.
 
- * Similar topologies connected with each other will not result in Hybrid topology.
+   * Similar topologies connected with each other will not result in Hybrid topology.
 
- ![HYBRID](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-hybrid-topology.png)
- 
+   ![HYBRID](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-topologies-hybrid-topology.png)
+
  * * *
 
 ## Transmission Modes:
