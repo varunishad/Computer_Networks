@@ -13,7 +13,7 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 
 ![Computer Network Components](https://static.javatpoint.com/tutorial/computer-network/images/components-of-computer-network.png)
 
-* NIC (network interface card)
+#### NIC (network interface card)
 
  NIC contains the hardware addresses, the data-link layer protocol use this address to identify the system on the network so that it can transfer the data to the correct destination.
 
@@ -23,15 +23,15 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 
  2. **Wired NIC:** Cables uses the **wired NIC** to transfer the data over the medium.
 
-* Hub
+#### Hub
 
  A Hub is a central device that splits the network connection into multiple devices. When a computer requests for information from another computer, it first sends the request to the Hub. Hub then broadcasts this request to the entire network. All the other devices check whether the request belongs to them or not. If not, the request gets dropped.
 
-* Switch
+#### Switch
 
  A Switch groups all the devices over the network to transfer the data to another device. It directly sends the data to the device for which it belongs to i.e., from source to the destination.
 
-* Cables and Connectors
+#### Cables and Connectors
 
  Cable is a transmission media used to transmit a communication signals.
 
@@ -43,11 +43,11 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 
  3. **Fibre optic cable:** It transmits data using light beams. Hence, provides high data transmission speed as compare to other cables.
 
-* Router
+#### Router
 
  Router is a device that connects the LAN to the internet. The router is mainly used to connect the distinct networks or connect the internet to multiple computers.
 
-* Modem
+#### Modem
 
  Modem allows the computer to connect to the internet over the existing telephone line. It stands for Modulator/Demodulator as it converts the digital data into an analog signal over the telephone lines.
 
