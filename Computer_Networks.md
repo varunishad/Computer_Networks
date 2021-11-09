@@ -6,6 +6,7 @@ The aim of computer network technology is to help people interact with each othe
 
 ![Computer Network](https://static.javatpoint.com/tutorial/computer-network/images/computer-network-tutorial.png)
 
+* * *
 
 ### Components of computer Network
 
@@ -128,7 +129,7 @@ NIC, hub, switch, cable, router and modem are some of the important components w
 
  Topology defines the structure of the network of how all the components are interconnected to each other.
 
- ####Types of Network Topology:
+ #### Types of Network Topology:
 
  * **Bus Topology:**
 
@@ -230,30 +231,3 @@ NIC, hub, switch, cable, router and modem are some of the important components w
  * It is the fastest mode of communication between devices.
 
  * **Telephone network** is the most common example of full-duplex mode.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
