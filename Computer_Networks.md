@@ -238,3 +238,18 @@ NIC, hub, switch, cable, router and modem are some of the important components w
  * It is the fastest mode of communication between devices.
 
  * **Telephone network** is the most common example of full-duplex mode.
+
+* * *
+ 
+ ## References
+ 
+ * Youtube
+   * [Neso academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
+   * [Knowledge GATE](https://www.youtube.com/watch?v=lGsJAbrMVa4)
+   
+ * Blogs
+   * [Introduction from wikipedia](https://en.wikipedia.org/wiki/Computer_network)
+   * [javapoint](https://www.javatpoint.com/computer-network-tutorial)
+   * [tutorialspoint](https://www.tutorialspoint.com/data_communication_computer_network/computer_network_types.htm)
+ 
+ 
